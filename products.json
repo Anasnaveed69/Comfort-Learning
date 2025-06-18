@@ -1,0 +1,67 @@
+
+{
+    "items":[
+        {
+            "sys":{
+                "id":"1"
+
+            },
+            "fields":{
+                "title":"Python Programming Master Course"
+                ,"price":125,
+                "image":{"fields" : {"file":{"url" : "images.png"}}}
+            }
+        },
+        {
+            "sys":{
+                "id":"2"
+
+            },
+            "fields":{
+                "title":"C++ Programming Course"
+                ,"price":110.99,
+                "image":{"fields" : {"file":{"url" : "C++.jpg"}}}
+            }
+        }
+        ,
+        {
+            "sys":{
+                "id":"3"
+
+            },
+            "fields":{
+                "title":"Web Dev Master Course"
+                ,"price":120.99,
+                "image":{"fields" : {"file":{"url" : "webDev.png"}}}
+            }
+        }
+        ,
+        {
+            "sys":{
+                "id":"4"
+
+            },
+            "fields":{
+                "title":"C Master Course"
+                ,"price":115.99,
+                "image":{"fields" : {"file":{"url" : "C.png"}}}
+            }
+        }
+    
+     ,
+        {
+            "sys":{
+                "id":"5"
+
+            },
+            "fields":{
+                "title":"Java Master Course"
+                ,"price":117.99,
+                "image":{"fields" : {"file":{"url" : "java.jpg"}}}
+            }
+        }
+    
+
+
+    ]
+}
